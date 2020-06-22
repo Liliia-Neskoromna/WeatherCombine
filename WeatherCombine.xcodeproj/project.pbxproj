@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		22576FD524A0AF2C000FC693 /* UITextField+Publisher.swift in Sources */ = {isa = PBXBuildFile; fileRef = 22576FD424A0AF2C000FC693 /* UITextField+Publisher.swift */; };
 		228F0E012498E50E005AC0E6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228F0E002498E50E005AC0E6 /* AppDelegate.swift */; };
 		228F0E032498E50E005AC0E6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228F0E022498E50E005AC0E6 /* SceneDelegate.swift */; };
 		228F0E052498E50E005AC0E6 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 228F0E042498E50E005AC0E6 /* ViewController.swift */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		22576FD424A0AF2C000FC693 /* UITextField+Publisher.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "UITextField+Publisher.swift"; sourceTree = "<group>"; };
 		228F0DFD2498E50E005AC0E6 /* WeatherCombine.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = WeatherCombine.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		228F0E002498E50E005AC0E6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		228F0E022498E50E005AC0E6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -65,6 +67,7 @@
 				228F0E002498E50E005AC0E6 /* AppDelegate.swift */,
 				228F0E022498E50E005AC0E6 /* SceneDelegate.swift */,
 				228F0E042498E50E005AC0E6 /* ViewController.swift */,
+				22576FD424A0AF2C000FC693 /* UITextField+Publisher.swift */,
 				228F0E142498E520005AC0E6 /* Model.swift */,
 				228F0E162498E6E0005AC0E6 /* WeatherAPI.swift */,
 				228F0E18249A1A4E005AC0E6 /* TempViewModel.swift */,
@@ -151,6 +154,7 @@
 				228F0E012498E50E005AC0E6 /* AppDelegate.swift in Sources */,
 				228F0E172498E6E0005AC0E6 /* WeatherAPI.swift in Sources */,
 				228F0E032498E50E005AC0E6 /* SceneDelegate.swift in Sources */,
+				22576FD524A0AF2C000FC693 /* UITextField+Publisher.swift in Sources */,
 				228F0E19249A1A4E005AC0E6 /* TempViewModel.swift in Sources */,
 				228F0E152498E520005AC0E6 /* Model.swift in Sources */,
 			);
